@@ -36,7 +36,6 @@ Node* deleteNode(Node* root, int value)
 
     if(value == root->data) {
 		if (root->left == NULL && root->right == NULL) {
-			root->data = NULL;
 			free(root);
 			Node* nullNode = NULL;
 			return nullNode;
