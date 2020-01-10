@@ -1,4 +1,3 @@
-# Assignments
+## Advanced Functional Programming
 
-* [Formative assignments](Formative/README.md)
-* [Assessed assignments](Assessed/README.md)
+Here I learn functional Programming through Haskell and gain an intuitive understanding of type inference, higher-order/generic/recursive functions and lazy evaluation. 
