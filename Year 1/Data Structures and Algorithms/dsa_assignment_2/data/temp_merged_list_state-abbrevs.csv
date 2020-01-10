@@ -1,0 +1,538 @@
+state,abbreviation
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alaska,AK
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Alabama,AL
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arkansas,AR
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+Arizona,AZ
+California,CA
+California,CA
+California,CA
+California,CA
+California,CA
+California,CA
+California,CA
+California,CA
+California,CA
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Colorado,CO
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+Connecticut,CT
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+District of Columbia,DC
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Delaware,DE
+Florida,FL
+Florida,FL
+Florida,FL
+Florida,FL
+Florida,FL
+Florida,FL
+Florida,FL
+Florida,FL
+Florida,FL
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Georgia,GA
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Hawaii,HI
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Iowa,IA
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Idaho,ID
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Illinois,IL
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Indiana,IN
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kansas,KS
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Kentucky,KY
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Louisiana,LA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Massachusetts,MA
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maryland,MD
+Maine,ME
+Maine,ME
+Maine,ME
+Maine,ME
+Maine,ME
+Maine,ME
+Maine,ME
+Maine,ME
+Maine,ME
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Michigan,MI
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Minnesota,MN
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Missouri,MO
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Mississippi,MS
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+Montana,MT
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Carolina,NC
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+North Dakota,ND
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+Nebraska,NE
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Hampshire,NH
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Jersey,NJ
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+New Mexico,NM
+Nevada,NV
+Nevada,NV
+Nevada,NV
+Nevada,NV
+Nevada,NV
+Nevada,NV
+Nevada,NV
+Nevada,NV
+Nevada,NV
+New York,NY
+New York,NY
+New York,NY
+New York,NY
+New York,NY
+New York,NY
+New York,NY
+New York,NY
+New York,NY
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Ohio,OH
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oklahoma,OK
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Oregon,OR
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Pennsylvania,PA
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+Rhode Island,RI
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Carolina,SC
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+South Dakota,SD
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Tennessee,TN
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Texas,TX
+Utah,UT
+Utah,UT
+Utah,UT
+Utah,UT
+Utah,UT
+Utah,UT
+Utah,UT
+Utah,UT
+Utah,UT
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Virginia,VA
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Vermont,VT
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Washington,WA
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+Wisconsin,WI
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+West Virginia,WV
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY
+Wyoming,WY

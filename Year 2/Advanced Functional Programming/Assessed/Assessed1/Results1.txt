@@ -1,0 +1,104 @@
+--------------------------------------------------------------------------------
+Checking if doubleList is correct...
++++ OK, passed 100 tests.
+doubleList is correct. :)
+
+--------------------------------------------------------------------------------
+Checking if firstDoubled is correct...
++++ OK, passed 100 tests.
+firstDoubled is correct. :)
+
+--------------------------------------------------------------------------------
+Checking if priceRange is correct...
+*** Failed! Falsified (after 3 tests and 1 shrink):     
+The test failed on input(s):
+P 0
+P 0
+[CC (P 0) []]
+Your output []is not the same as [CC (P 0) []].
+priceRange is not correct, checking for partial marks...
+
+Checking if priceRange returns a subset of its input...
++++ OK, passed 100 tests.
+You got 2 marks for returning a subset of the original list of cupcakes. :)
+
+Checking if priceRange checks for minimum price...
+*** Failed! Falsified (after 3 tests and 1 shrink):     
+The test failed on input(s):
+P 0
+P 0
+[CC (P 0) []]
+Your output []is not the same as [CC (P 0) []].
+priceRange minP maxP xs should filter out cupcakes which cost less than the minimum price.
+
+Checking if priceRange checks for maximum price...
+*** Failed! Falsified (after 2 tests):                  
+The test failed on input(s):
+P 1
+P 0
+[CC (P 0) []]
+Your output []is not the same as [CC (P 0) []].
+priceRange minP maxP xs should filter out cupcakes which cost more than the maximum price.
+
+--------------------------------------------------------------------------------
+Checking if allergyFree is correct...
+*** Failed! Falsified (after 37 tests and 3 shrinks):    
+The test failed on input(s):
+[]
+[CC (P 3) [Soy,Soy,Nuts]]
+Your output []is not the same as [CC (P 3) [Soy,Soy,Nuts]].
+allergyFree is not correct, checking for partial marks...
+
+Checking if allergyFree returns only cupcakes with allergens...
+*** Failed! Falsified (after 2 tests):                  
+The test failed on input(s):
+[Dairy]
+[CC (P 0) []]
+Your output [CC (P 0) []]is not the same as [].
+You did not do this.
+
+Checking if allergyFree filters only the cupcakes that contain all allergens...
+*** Failed! Falsified (after 2 tests and 1 shrink):     
+The test failed on input(s):
+[]
+[CC (P 0) []]
+Your output []is not the same as [CC (P 0) []].
+Your allergyFree did not filter out the most deadly cupcakes.
+
+--------------------------------------------------------------------------------
+Checking if checkSpec is correct...
++++ OK, passed 100 tests; 283 discarded.
+checkSpec is correct. :)
+
+--------------------------------------------------------------------------------
+Checking if checkSpec' is correct...
+*** Failed! Exception: 'Prelude.!!: negative index' (after 23 tests and 1 shrink):
+The test failed on input(s):
+HasCup (-1) Gluten
+[]
+Exception thrown while showing test case: 'Prelude.!!: negative index'
+checkSpec' is not correct, checking for partial marks...
+
+Checking if checkSpec' can cope with negative indices...
+*** Failed! Exception: 'Prelude.!!: negative index' (after 2 tests and 1 shrink):
+The test failed on input(s):
+Not (HasCup (-1) Soy)
+[]
+Exception thrown while showing test case: 'Prelude.!!: negative index'
+checkSpec' cannot cope with negative indices.
+
+Checking if checkSpec' can cope with indices that are too large...
++++ OK, passed 100 tests; 20 discarded.
+You got 2 marks as checkSpec' can cope with indices that are too large. :)
+
+--------------------------------------------------------------------------------
+Checking if linearSort is correct...
++++ OK, passed 100 tests.
+linearSort is correct. :)
+
+Checking your counterexample...
+*** Failed! Falsified (after 1 test):  
+The test failed on input(s):
+Your counterexample should have been [2,3,1].
+--------------------------------------------------------------------------------
+Your mark is: 33. Good effort! :)

@@ -1,0 +1,21 @@
+\documentclass[a4paper,10pt]{article} % Default is not A4 but US letter size, 10pt default
+%\usepackage{extsizes} % Improves range from (pt) 10,11,12 to 8,9,10,11,12,14,17,20
+\usepackage{graphicx} % Used to import external graphics e.g. images
+\usepackage{amsmath, amssymb, amsfonts} % Extend alphabet of mathematical symbols and provide improved equation environment
+\usepackage[top=3cm, bottom=4cm, left=3cm, right=3cm]{geometry} % Used to define page dimensions
+\usepackage{hyperref} % Enables hyperlinks (online links + referencing), use [hidelinks] optionallt
+\usepackage{xcolor} % Sets colour for hyperlinks instead of ugly boxes
+\usepackage{pdfpages}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+%\setlength{\parindent}{0cm} % Remove automatic indentation
+
+\begin{document}
+Test
+\includepdf[angle=-90]{img/Object_Diagram.pdf}
+Test2
+\end{document}
